@@ -1,0 +1,11 @@
+{
+  "entities": [
+    "icons",
+    "js",
+    "pages",
+    "manifest.json"
+  ],
+  "options": {
+    "output": "../dist/firefox-addon.zip"
+  }
+}
