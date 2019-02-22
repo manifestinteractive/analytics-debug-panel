@@ -4,11 +4,19 @@
 
 #  ![demo](./demo.gif)
 
+## Features
+
+- [X] Works on Chrome, Firefox & Opera
+- [X] Adds new `Analytics` tab to Developer Console
+- [X] Easily Inspect, Search & Filter Network Requests
+- [X] Copy Output to Clipboard
+- [X] Supports Light & Dark Themes
+
 [Red Van Workshop](https://redvanworkshop.com) works with online retailers that have a variety of Analytic Providers for their differing business needs.  Working on new integrations and debugging existing ones is an integral part of our developer process.  This Browser Extension was built to help make that process easier.  We hope you will find it as useful as we do, and if you want to help make it better, we'd love to hear from you.
 
 ## Installation
 
-> Here is how to install this extension in your favorite browsers:
+> Here is how to install this browser extension in your favorite browsers:
 
 <details><summary>Add to Google Chrome</summary>
 
@@ -22,7 +30,7 @@
 
 <details><summary>Add to Firefox</summary>
 
-1. Download [Webkit Extension](https://github.com/redvanworkshop/analytics-debug-panel/raw/master/dist/firefox-addon.zip)
+1. Download [Firefox Addon](https://github.com/redvanworkshop/analytics-debug-panel/raw/master/dist/firefox-addon.zip)
 2. Open Firefox
 3. Go to the following URL in a new tab:  `about:debugging`
 4. Select `Enable add-on debugging` checkbox
@@ -42,6 +50,8 @@
 </details>
 
 ## Developers
+
+> Here is how to develop the browser extension
 
 <details><summary>Support New Providers</summary>
 
