@@ -4,6 +4,8 @@
 
 #  ![demo](./demo.gif)
 
+[Red Van Workshop](https://redvanworkshop.com) works with online retailers that have a variety of Analytic Providers for their differing business needs.  Working on new integrations and debugging existing ones is an integral part of our developer process.  This Browser Extension was built to help make that process easier.  We hope you will find it as useful as we do, and if you want to help make it better, we'd love to hear from you.
+
 ## Features
 
 - [X] Works on Chrome, Firefox & Opera
@@ -11,8 +13,6 @@
 - [X] Easily Inspect, Search & Filter Network Requests
 - [X] Copy Output to Clipboard
 - [X] Supports Light & Dark Themes
-
-[Red Van Workshop](https://redvanworkshop.com) works with online retailers that have a variety of Analytic Providers for their differing business needs.  Working on new integrations and debugging existing ones is an integral part of our developer process.  This Browser Extension was built to help make that process easier.  We hope you will find it as useful as we do, and if you want to help make it better, we'd love to hear from you.
 
 ## Installation
 
