@@ -1,7 +1,7 @@
 module.exports = {
   name: 'Analytics Debug Panel',
   version: '1.0.0',
-  description: 'Analytics Debug Panel',
+  description: 'Analytics Debug Panel is an Open Source browser extension to inspect, search & filter analytics traffic in your Developer Console.',
   author: 'Peter Schmalfeldt',
   manifest_version: 2,
   icons: {

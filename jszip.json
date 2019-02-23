@@ -6,6 +6,6 @@
     "manifest.json"
   ],
   "options": {
-    "output": "../dist/firefox-addon.zip"
+    "output": "../dist/analytics-debug-panel.zip"
   }
 }

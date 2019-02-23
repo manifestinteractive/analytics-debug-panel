@@ -1,7 +1,7 @@
 {
   "name": "analytics-debug-panel",
   "version": "1.0.0",
-  "description": "Browser Extension - Analytics Debug Panel",
+  "description": "Analytics Debug Panel is an Open Source browser extension to inspect, search & filter analytics traffic in your Developer Console.",
   "author": "Red van Workshop",
   "license": "MIT",
   "private": false,
@@ -10,9 +10,9 @@
     "lint": "eslint --ext .js,.vue -f ./node_modules/eslint-friendly-formatter src && echo '\n【ツ】CODE FORMATTING PERFECTION !!!\n'",
     "dev": "NODE_ENV=development webpack --config ./core/webpack.dev.js --hide-modules",
     "build": "NODE_ENV=production webpack --config ./core/webpack.prod.js -p --progress  --hide-modules --colors",
-    "pack": "npm run -s pack:webkit && npm run -s pack:firefox",
-    "pack:webkit": "crx pack build -o dist/webkit-extension.crx -p key.pem",
-    "pack:firefox": "cd build && jszip -c ../jszip.json"
+    "pack": "npm run -s pack:crx && npm run -s pack:zip",
+    "pack:crx": "crx pack build -o dist/analytics-debug-panel.crx -p key.pem",
+    "pack:zip": "cd build && jszip -c ../jszip.json"
   },
   "dependencies": {
     "split.js": "^1.3.5",
