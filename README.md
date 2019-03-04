@@ -16,6 +16,16 @@
 
 ## Installation
 
+> Select your browser:
+
+[![Install Chrome](https://img.shields.io/badge/Install-Chrome-blue.svg?style=for-the-badge)](https://chrome.google.com/webstore/detail/analytics-debug-panel/poaajdjaghjhnampllfkclmepngmaekb)
+[![Install Firefox](https://img.shields.io/badge/Install-Firefox-orange.svg?style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/analytics-debug-panel/)
+[![Install Opera](https://img.shields.io/badge/Install-Opera-red.svg?style=for-the-badge)](https://addons.opera.com/en/extensions/details/analytics-debug-panel/)
+
+_( Opera Addon Pending Review )_
+
+## Manual Install
+
 > Here is how to install this browser extension in your favorite browsers:
 
 <details><summary>Add to Google Chrome</summary>
